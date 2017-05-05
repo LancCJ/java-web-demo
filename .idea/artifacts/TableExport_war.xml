@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TableExport:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tableexport.war">
+      <element id="artifact" artifact-name="TableExport:war exploded" />
+    </root>
+  </artifact>
+</component>
